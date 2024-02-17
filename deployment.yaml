@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: alwaystilted/register-app-pipeline:1.0.0-50
+          image: alwaystilted/register-app-pipeline:1.0.0-53
           resources:
             limits:
               memory: "256Mi"
